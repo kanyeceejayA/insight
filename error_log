@@ -1,0 +1,40 @@
+[25-Oct-2019 19:16:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /python/nguvu/public_html/insights/assets/header.php on line 2
+[25-Oct-2019 19:16:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /python/nguvu/public_html/insights/assets/header.php on line 2
+[25-Oct-2019 19:17:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /python/nguvu/public_html/insights/assets/header.php on line 2
+[05-Nov-2019 13:27:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nguvu_wp.funding_view' doesn't exist in /python/nguvu/public_html/insights/profile.php:43
+Stack trace:
+#0 /python/nguvu/public_html/insights/profile.php(43): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /python/nguvu/public_html/insights/profile.php on line 43
+[05-Nov-2019 13:28:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nguvu_wp.funding_view' doesn't exist in /python/nguvu/public_html/insights/profile.php:43
+Stack trace:
+#0 /python/nguvu/public_html/insights/profile.php(43): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /python/nguvu/public_html/insights/profile.php on line 43
+[05-Nov-2019 13:29:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nguvu_wp.investors_view' doesn't exist in /python/nguvu/public_html/insights/investor.php:7
+Stack trace:
+#0 /python/nguvu/public_html/insights/investor.php(7): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /python/nguvu/public_html/insights/investor.php on line 7
+[05-Nov-2019 13:29:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nguvu_wp.funding_view' doesn't exist in /python/nguvu/public_html/insights/profile.php:43
+Stack trace:
+#0 /python/nguvu/public_html/insights/profile.php(43): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /python/nguvu/public_html/insights/profile.php on line 43
+[05-Nov-2019 13:30:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nguvu_wp.funding_view' doesn't exist in /python/nguvu/public_html/insights/profile.php:45
+Stack trace:
+#0 /python/nguvu/public_html/insights/profile.php(45): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /python/nguvu/public_html/insights/profile.php on line 45
+[05-Nov-2019 13:33:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nguvu_wp.investors_view' doesn't exist in /python/nguvu/public_html/insights/investor.php:7
+Stack trace:
+#0 /python/nguvu/public_html/insights/investor.php(7): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /python/nguvu/public_html/insights/investor.php on line 7
+[05-Nov-2019 13:33:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nguvu_wp.investors_view' doesn't exist in /python/nguvu/public_html/insights/investor.php:10
+Stack trace:
+#0 /python/nguvu/public_html/insights/investor.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /python/nguvu/public_html/insights/investor.php on line 10
+[05-Nov-2019 14:29:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /python/nguvu/public_html/insights/assets/header.php on line 2
+[05-Nov-2019 14:36:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /python/nguvu/public_html/insights/assets/header.php on line 2
